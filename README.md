@@ -1,5 +1,4 @@
 # ElleHacks
 
-This is a project for the elle hacks hackathon.
+This is a project for the Elle Hacks hackathon.
 
-Hello,
