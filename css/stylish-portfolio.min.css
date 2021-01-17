@@ -64,7 +64,7 @@ body{
     padding-bottom:8rem;
 
 
-    background-image: url(../img/pig.png), url(../img/bg-masthead.jpg);
+    background-image:url(../img/pig.png), url(../img/bg-masthead.jpg);
     background:linear-gradient(90deg,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 100%),url(../img/pig.png),url(../img/bg-masthead.jpg);
     background-position:center left, center left;
     background-repeat:repeat, no-repeat;
