@@ -1,7 +1,13 @@
 # ElleHacks2021 - "KIDDY" BANK
 
-
-<a href="https://youtu.be/ugB2CgJJaME" rel="nofollow">Video Presentation</a>
+<ul>
+  <li>
+    <a href="https://ckathroju.github.io/KiddyBank_ElleHacks2021/" rel="nofollow">"Kiddy" Bank Demo</a>
+  </li>
+  <li>
+    <a href="https://youtu.be/ugB2CgJJaME" rel="nofollow">Video Presentation</a>
+  </li>
+</ul>
 
 ### Idea:
 
@@ -20,12 +26,3 @@ Youth financial literacy is often neglected and doesn't get the attention that i
 - Spending
 - Loans
 - Interest
-
-## Tech Stack:
-- Bootstrap
-- Google slides
-- Viual studio code
-- HTML
-- CSS
-- JavaScript
-- YouTube
