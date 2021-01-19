@@ -1,5 +1,8 @@
 # ElleHacks2021 - "KIDDY" BANK
 
+
+<a href="https://youtu.be/ugB2CgJJaME" rel="nofollow">Video Presentation</a>
+
 ### Idea:
 
 An interactive banking game that will focus on the critical fundamentals of financial literacy by guiding youths on making responsible financial decisions from a young age.
