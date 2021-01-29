@@ -29,6 +29,6 @@ Youth financial literacy is often neglected and doesn't get the attention that i
 
 # WINNER
 
-Kiddy Bank won Bell's Custom Award - to create a technology solution that will help those who have traditionally been less likely to benefit from technological innovation due to economic instability.
+Kiddy Bank won Bell's Custom Award - to create a solution that will help those who have traditionally been less likely to benefit from technological innovation due to economic instability.
 
 <img src="https://ckathroju.github.io/KiddyBank_ElleHacks2021/img/ElleHacks2021 Winners.png" alt="" style="max-width:100%;">
