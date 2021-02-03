@@ -27,7 +27,7 @@ Youth financial literacy is often neglected and doesn't get the attention that i
 - Loans
 - Interest
 
-# WINNER
+# Bell Custom Award 1st Place Winner
 
 Kiddy Bank won Bell's Custom Award - to create a solution that will help those who have traditionally been less likely to benefit from technological innovation due to economic instability.
 
