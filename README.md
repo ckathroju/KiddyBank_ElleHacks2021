@@ -2,7 +2,7 @@
 
 <ul>
   <li>
-    <a href="https://ckathroju.github.io/KiddyBank_ElleHacks2021/" rel="nofollow">Kiddy Bank Demo</a>
+    <a href="https://ckathroju.github.io/KiddyBank_ElleHacks2021/" rel="nofollow">Kiddy Bank</a>
   </li>
   <li>
     <a href="https://youtu.be/ugB2CgJJaME" rel="nofollow">Video Presentation</a>
