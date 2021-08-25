@@ -1,12 +1,9 @@
 # ElleHacks2021 - KIDDY BANK
 
 <ul>
-  <li>
-    <a href="https://ckathroju.github.io/KiddyBank_ElleHacks2021/" rel="nofollow">Kiddy Bank</a>
-  </li>
-  <li>
-    <a href="https://youtu.be/ugB2CgJJaME" rel="nofollow">Video Presentation</a>
-  </li>
+  <a href="https://ckathroju.github.io/KiddyBank_ElleHacks2021/" rel="nofollow">Kiddy Bank</a>
+  
+  <a href="https://youtu.be/ugB2CgJJaME" rel="nofollow">Video Presentation</a>
 </ul>
 
 ### Idea:
